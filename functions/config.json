@@ -1,11 +1,11 @@
 [
     {
-        "name": "customerbyid",
+        "name": "foobar",
         "private": false,
         "disable_arg_logs": true
     },
     {
-        "name": "foobar",
+        "name": "customerbyid",
         "private": false,
         "disable_arg_logs": true
     }
