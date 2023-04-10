@@ -11,12 +11,12 @@
         "return_type": "JSON"
     },
     {
-        "route": "/helloworld",
-        "http_method": "POST",
-        "function_name": "hw",
+        "route": "/customers/id",
+        "http_method": "GET",
+        "function_name": "customerbyid",
         "validation_method": "NO_VALIDATION",
         "respond_result": false,
-        "fetch_custom_user_data": false,
+        "fetch_custom_user_data": true,
         "create_user_on_auth": false,
         "disabled": false,
         "return_type": "JSON"
